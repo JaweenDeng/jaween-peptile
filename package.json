@@ -1,0 +1,19 @@
+{
+  "name": "jaween-demo",
+  "version": "1.0.0",
+  "description": "111",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaweenDeng/test-git.git"
+  },
+  "author": "jaween",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaweenDeng/test-git/issues"
+  },
+  "homepage": "https://github.com/JaweenDeng/test-git#readme"
+}
