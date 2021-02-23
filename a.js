@@ -8,4 +8,4 @@ function hello(name){
 //我修改了二次
 exports.hello = hello;
 
-//测试 --no-f
+//测试 不要 --no-f 合并
