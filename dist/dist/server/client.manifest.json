@@ -318,7 +318,7 @@
     "pages/courseDetail/_id.c711a77.js",
     "pages/courseOrder/_id.6bc31bf.js",
     "pages/coursePoster/_id.f189778.js",
-    "pages/index.e597268.js",
+    "pages/index.cef3a0d.js",
     "pages/inviteFriends/_id.995473f.js",
     "pages/newsDetail/_id.f112407.js",
     "pages/paper/apply.176b50a.js",
@@ -347,14 +347,14 @@
     "pages/videoDetail/_id.79766ae.js",
     "pages/videoDetail/index.5e27a10.js",
     "pages/videoWeChatDetail/_id.a6ced4e.js",
-    "runtime.d60fd96.js",
+    "runtime.2c976eb.js",
     "vendors/3fbd33a6.e7b0c8e.js",
     "vendors/5902dfaf.185de64.js",
     "vendors/7df42d58.7d3607a.js",
     "vendors/commons.36ac8e1.js"
   ],
   "initial": [
-    "runtime.d60fd96.js",
+    "runtime.2c976eb.js",
     "vendors/commons.36ac8e1.js",
     "app.75c89b0.js"
   ],
@@ -387,7 +387,7 @@
     "pages/courseDetail/_id.c711a77.js",
     "pages/courseOrder/_id.6bc31bf.js",
     "pages/coursePoster/_id.f189778.js",
-    "pages/index.e597268.js",
+    "pages/index.cef3a0d.js",
     "pages/inviteFriends/_id.995473f.js",
     "pages/newsDetail/_id.f112407.js",
     "pages/paper/apply.176b50a.js",
@@ -8466,7 +8466,7 @@
       21,
       214
     ],
-    "4c0164b8": [
+    "10edc71a": [
       317,
       25,
       77,
@@ -17212,7 +17212,7 @@
       274,
       275
     ],
-    "62ea8924": [
+    "d911c460": [
       317,
       25,
       77,
@@ -17228,7 +17228,7 @@
       274,
       275
     ],
-    "13cd73fd": [
+    "4e8c5342": [
       317,
       25,
       77,
@@ -18334,7 +18334,7 @@
       274,
       275
     ],
-    "07ced43c": [
+    "16882ac4": [
       317,
       25,
       77,
@@ -18366,7 +18366,7 @@
       274,
       275
     ],
-    "e87b4c84": [
+    "b39c22c0": [
       317,
       25,
       77,
@@ -20854,7 +20854,7 @@
       "pages/coursePoster/_id.f189778.js"
     ],
     "2a130dde": [
-      "pages/index.e597268.js"
+      "pages/index.cef3a0d.js"
     ],
     "6463cd94": [
       "pages/inviteFriends/_id.995473f.js"
@@ -20938,7 +20938,7 @@
       "pages/videoWeChatDetail/_id.a6ced4e.js"
     ],
     "6fca0322": [
-      "runtime.d60fd96.js"
+      "runtime.2c976eb.js"
     ],
     "1f8c5f44": [
       "vendors/3fbd33a6.e7b0c8e.js"
