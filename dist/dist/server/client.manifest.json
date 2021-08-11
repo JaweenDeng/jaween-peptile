@@ -8,7 +8,7 @@
     "commons/2c8f3f30.4a35f5b.js",
     "commons/49f22f86.37a0ba0.js",
     "commons/538fa94c.a73de94.js",
-    "commons/5902dfaf.a437225.js",
+    "commons/5902dfaf.340fc24.js",
     "commons/5ab69e23.b232b6e.js",
     "commons/75b3cb70.1815513.js",
     "commons/79ea77ef.dea29a7.js",
@@ -347,14 +347,14 @@
     "pages/videoDetail/_id.79766ae.js",
     "pages/videoDetail/index.5e27a10.js",
     "pages/videoWeChatDetail/_id.a6ced4e.js",
-    "runtime.42c9610.js",
+    "runtime.d60fd96.js",
     "vendors/3fbd33a6.e7b0c8e.js",
     "vendors/5902dfaf.185de64.js",
     "vendors/7df42d58.7d3607a.js",
     "vendors/commons.36ac8e1.js"
   ],
   "initial": [
-    "runtime.42c9610.js",
+    "runtime.d60fd96.js",
     "vendors/commons.36ac8e1.js",
     "app.75c89b0.js"
   ],
@@ -362,7 +362,7 @@
     "commons/2c8f3f30.4a35f5b.js",
     "commons/49f22f86.37a0ba0.js",
     "commons/538fa94c.a73de94.js",
-    "commons/5902dfaf.a437225.js",
+    "commons/5902dfaf.340fc24.js",
     "commons/5ab69e23.b232b6e.js",
     "commons/75b3cb70.1815513.js",
     "commons/79ea77ef.dea29a7.js",
@@ -7943,7 +7943,7 @@
       95,
       254
     ],
-    "0f382e78": [
+    "7ba28cda": [
       7,
       202,
       25,
@@ -10141,7 +10141,7 @@
       95,
       254
     ],
-    "22d4a9c0": [
+    "0ecd3aa2": [
       7,
       202,
       25,
@@ -10175,7 +10175,7 @@
       95,
       254
     ],
-    "7230cd38": [
+    "9a3fab74": [
       7,
       202,
       25,
@@ -13466,7 +13466,7 @@
     "2f154b18": [
       348
     ],
-    "dd074afc": [
+    "04328e38": [
       7,
       202,
       25,
@@ -13483,7 +13483,7 @@
       95,
       254
     ],
-    "3f041c5a": [
+    "4ce85035": [
       7,
       202,
       25,
@@ -20779,7 +20779,7 @@
       "commons/538fa94c.a73de94.js"
     ],
     "3cc3c30a": [
-      "commons/5902dfaf.a437225.js"
+      "commons/5902dfaf.340fc24.js"
     ],
     "5397c6ac": [
       "commons/5ab69e23.b232b6e.js"
@@ -20938,7 +20938,7 @@
       "pages/videoWeChatDetail/_id.a6ced4e.js"
     ],
     "6fca0322": [
-      "runtime.42c9610.js"
+      "runtime.d60fd96.js"
     ],
     "1f8c5f44": [
       "vendors/3fbd33a6.e7b0c8e.js"

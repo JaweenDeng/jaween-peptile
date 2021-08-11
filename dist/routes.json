@@ -8,7 +8,8 @@
       "title": "我的",
       "notab": false,
       "needLogin": false
-    }
+    },
+    "_name": "_fe3fd48e"
   },
   {
     "name": "allCourse",
@@ -19,7 +20,8 @@
       "title": "全部课程",
       "notab": false,
       "needLogin": false
-    }
+    },
+    "_name": "_93698fb0"
   },
   {
     "name": "college",
@@ -30,7 +32,8 @@
       "title": "高校公益行活动",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_6aa84eff"
   },
   {
     "name": "promote",
@@ -48,7 +51,8 @@
           "perv": "/",
           "notab": true,
           "needLogin": false
-        }
+        },
+        "_name": "_8aee0e3a"
       },
       {
         "name": "promote-scientificBiunique",
@@ -60,7 +64,8 @@
           "perv": "/",
           "notab": true,
           "needLogin": false
-        }
+        },
+        "_name": "_5dc8e4ed"
       },
       {
         "name": "promote-scientificGroup",
@@ -72,7 +77,8 @@
           "perv": "/",
           "notab": true,
           "needLogin": false
-        }
+        },
+        "_name": "_087b733a"
       }
     ],
     "meta": {
@@ -80,7 +86,8 @@
       "perv": "/",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_7a0b59cc"
   },
   {
     "name": "pushSell",
@@ -92,7 +99,8 @@
       "perv": "/pushSell",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_01b28552"
   },
   {
     "name": "teacherRecruit",
@@ -104,7 +112,8 @@
       "perv": "/",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_e52e463c"
   },
   {
     "name": "videoDetail",
@@ -116,7 +125,8 @@
       "perv": "/courseDetail",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_aeab2a6c"
   },
   {
     "name": "biunique-paper",
@@ -128,7 +138,8 @@
       "perv": "/",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_342fc840"
   },
   {
     "name": "biunique-scientific",
@@ -140,7 +151,8 @@
       "perv": "/",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_7a6845a5"
   },
   {
     "name": "college-newsList",
@@ -152,7 +164,8 @@
       "perv": "/college",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_50f85f74"
   },
   {
     "name": "paper-apply",
@@ -163,7 +176,8 @@
       "title": "SCI/SSCI期刊论文",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_76114386"
   },
   {
     "name": "paper-coach",
@@ -174,7 +188,8 @@
       "title": "论文辅导",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_0cf04eb2"
   },
   {
     "name": "paper-result",
@@ -185,7 +200,8 @@
       "title": "最新成果展示",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_274d3fb5"
   },
   {
     "name": "paper-types",
@@ -196,7 +212,8 @@
       "title": "毕业论文辅导",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_11c99b11"
   },
   {
     "name": "pushSell-agree",
@@ -208,7 +225,8 @@
       "perv": "/pushSell",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_6bf2522c"
   },
   {
     "name": "pushSell-success",
@@ -220,7 +238,8 @@
       "perv": "/pushSell",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_026e8203"
   },
   {
     "name": "pushSell-withDraw",
@@ -232,7 +251,8 @@
       "perv": "/pushSell",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_4c333e4c"
   },
   {
     "name": "studyCenter-biuniqueOrder",
@@ -244,7 +264,8 @@
       "perv": "/account",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_bd609188"
   },
   {
     "name": "studyCenter-lastStudy",
@@ -256,7 +277,8 @@
       "perv": "/account",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_595ba939"
   },
   {
     "name": "studyCenter-myCourse",
@@ -268,7 +290,8 @@
       "perv": "/account",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_a8f0621e"
   },
   {
     "name": "studyCenter-myFavor",
@@ -280,7 +303,8 @@
       "perv": "/account",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_1a5cb058"
   },
   {
     "name": "studyCenter-myOrder",
@@ -292,7 +316,8 @@
       "perv": "/account",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_6d77f168"
   },
   {
     "name": "biunique-paperApply-id",
@@ -304,7 +329,8 @@
       "perv": "/biunique/paper",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_70de23ec"
   },
   {
     "name": "biunique-paperCategoryDetail-id",
@@ -316,7 +342,8 @@
       "perv": "/biunique/paperCategoryList",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_d581420a"
   },
   {
     "name": "biunique-paperCategoryList-id",
@@ -328,7 +355,8 @@
       "perv": "/biunique/paper",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_9be5c864"
   },
   {
     "name": "biunique-scientificApply-id",
@@ -340,7 +368,8 @@
       "perv": "/biunique/scientific",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_8ace31de"
   },
   {
     "name": "biunique-scientificCategoryDetail-id",
@@ -352,7 +381,8 @@
       "perv": "/biunique/scientificCategoryList",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_46e55514"
   },
   {
     "name": "biunique-scientificCategoryList-id",
@@ -364,7 +394,8 @@
       "perv": "/biunique/scientific",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_6bcc7509"
   },
   {
     "name": "biunique-subjectMatch-id",
@@ -376,7 +407,8 @@
       "perv": "/biunique/scientific",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_62241415"
   },
   {
     "name": "pay-finish-id",
@@ -388,7 +420,8 @@
       "perv": "/courseDetail",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_46754883"
   },
   {
     "name": "courseCall-id",
@@ -399,7 +432,8 @@
       "title": "集call免费学",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_5778bb66"
   },
   {
     "name": "courseDetail-id",
@@ -411,7 +445,8 @@
       "perv": "/allCourse",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_0294b90c"
   },
   {
     "name": "courseOrder-id",
@@ -423,7 +458,8 @@
       "perv": "/allCourse",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_daec4f6a"
   },
   {
     "name": "coursePoster-id",
@@ -434,7 +470,8 @@
       "title": "集call免费学",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_117a99fe"
   },
   {
     "name": "inviteFriends-id",
@@ -446,7 +483,8 @@
       "perv": "/courseDetail",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_1d94f9dc"
   },
   {
     "name": "newsDetail-id",
@@ -457,7 +495,8 @@
       "title": "文章详情",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_2e33827c"
   },
   {
     "name": "promoteApply-id",
@@ -468,7 +507,8 @@
       "title": "科研背景提升申请",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_574a3678"
   },
   {
     "name": "promoteDetail-id",
@@ -479,7 +519,8 @@
       "title": "科研背景提升详情",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_097bb6cd"
   },
   {
     "name": "promoteOrder-id",
@@ -490,7 +531,8 @@
       "title": "科研背景提升订单确认",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_71da8e98"
   },
   {
     "name": "promoteQuestion-id",
@@ -501,7 +543,8 @@
       "title": "科研背景提升问卷",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_23686fd8"
   },
   {
     "name": "videoDetail-id",
@@ -513,7 +556,8 @@
       "perv": "/courseDetail",
       "notab": true,
       "needLogin": true
-    }
+    },
+    "_name": "_788897b2"
   },
   {
     "name": "videoWeChatDetail-id",
@@ -525,7 +569,8 @@
       "perv": "/courseDetail",
       "notab": true,
       "needLogin": false
-    }
+    },
+    "_name": "_31a74acc"
   },
   {
     "name": "index",
@@ -536,6 +581,7 @@
       "title": "艾思云课堂",
       "notab": false,
       "needLogin": false
-    }
+    },
+    "_name": "_6d0d26de"
   }
 ]
