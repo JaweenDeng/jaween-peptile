@@ -1,0 +1,541 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\account.vue",
+    "chunkName": "pages/account",
+    "meta": {
+      "title": "我的",
+      "notab": false,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "allCourse",
+    "path": "/allCourse",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\allCourse.vue",
+    "chunkName": "pages/allCourse",
+    "meta": {
+      "title": "全部课程",
+      "notab": false,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "college",
+    "path": "/college",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\college\\\\index.vue",
+    "chunkName": "pages/college/index",
+    "meta": {
+      "title": "高校公益行活动",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "promote",
+    "path": "/promote",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promote.vue",
+    "chunkName": "pages/promote",
+    "children": [
+      {
+        "name": "promote-Introduce",
+        "path": "Introduce",
+        "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promote\\\\Introduce.vue",
+        "chunkName": "pages/promote/Introduce",
+        "meta": {
+          "title": "科研背景提升",
+          "perv": "/",
+          "notab": true,
+          "needLogin": false
+        }
+      },
+      {
+        "name": "promote-scientificBiunique",
+        "path": "scientificBiunique",
+        "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promote\\\\scientificBiunique.vue",
+        "chunkName": "pages/promote/scientificBiunique",
+        "meta": {
+          "title": "科研背景提升一对一",
+          "perv": "/",
+          "notab": true,
+          "needLogin": false
+        }
+      },
+      {
+        "name": "promote-scientificGroup",
+        "path": "scientificGroup",
+        "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promote\\\\scientificGroup.vue",
+        "chunkName": "pages/promote/scientificGroup",
+        "meta": {
+          "title": "科研背景提升科研小组",
+          "perv": "/",
+          "notab": true,
+          "needLogin": false
+        }
+      }
+    ],
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "pushSell",
+    "path": "/pushSell",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\pushSell\\\\index.vue",
+    "chunkName": "pages/pushSell/index",
+    "meta": {
+      "title": "推广收益",
+      "perv": "/pushSell",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "teacherRecruit",
+    "path": "/teacherRecruit",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\teacherRecruit\\\\index.vue",
+    "chunkName": "pages/teacherRecruit/index",
+    "meta": {
+      "title": "协议",
+      "perv": "/",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "videoDetail",
+    "path": "/videoDetail",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\videoDetail\\\\index.vue",
+    "chunkName": "pages/videoDetail/index",
+    "meta": {
+      "title": "课程详情",
+      "perv": "/courseDetail",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "biunique-paper",
+    "path": "/biunique/paper",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\paper.vue",
+    "chunkName": "pages/biunique/paper",
+    "meta": {
+      "title": "科研论文一对一",
+      "perv": "/",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "biunique-scientific",
+    "path": "/biunique/scientific",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\scientific.vue",
+    "chunkName": "pages/biunique/scientific",
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "college-newsList",
+    "path": "/college/newsList",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\college\\\\newsList.vue",
+    "chunkName": "pages/college/newsList",
+    "meta": {
+      "title": "最新活动",
+      "perv": "/college",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "paper-apply",
+    "path": "/paper/apply",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\paper\\\\apply.vue",
+    "chunkName": "pages/paper/apply",
+    "meta": {
+      "title": "SCI/SSCI期刊论文",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "paper-coach",
+    "path": "/paper/coach",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\paper\\\\coach.vue",
+    "chunkName": "pages/paper/coach",
+    "meta": {
+      "title": "论文辅导",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "paper-result",
+    "path": "/paper/result",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\paper\\\\result.vue",
+    "chunkName": "pages/paper/result",
+    "meta": {
+      "title": "最新成果展示",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "paper-types",
+    "path": "/paper/types",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\paper\\\\types.vue",
+    "chunkName": "pages/paper/types",
+    "meta": {
+      "title": "毕业论文辅导",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "pushSell-agree",
+    "path": "/pushSell/agree",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\pushSell\\\\agree.vue",
+    "chunkName": "pages/pushSell/agree",
+    "meta": {
+      "title": "协议",
+      "perv": "/pushSell",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "pushSell-success",
+    "path": "/pushSell/success",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\pushSell\\\\success.vue",
+    "chunkName": "pages/pushSell/success",
+    "meta": {
+      "title": "提交成功",
+      "perv": "/pushSell",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "pushSell-withDraw",
+    "path": "/pushSell/withDraw",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\pushSell\\\\withDraw.vue",
+    "chunkName": "pages/pushSell/withDraw",
+    "meta": {
+      "title": "提现",
+      "perv": "/pushSell",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "studyCenter-biuniqueOrder",
+    "path": "/studyCenter/biuniqueOrder",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\studyCenter\\\\biuniqueOrder.vue",
+    "chunkName": "pages/studyCenter/biuniqueOrder",
+    "meta": {
+      "title": "一对一订单",
+      "perv": "/account",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "studyCenter-lastStudy",
+    "path": "/studyCenter/lastStudy",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\studyCenter\\\\lastStudy.vue",
+    "chunkName": "pages/studyCenter/lastStudy",
+    "meta": {
+      "title": "最近学习",
+      "perv": "/account",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "studyCenter-myCourse",
+    "path": "/studyCenter/myCourse",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\studyCenter\\\\myCourse.vue",
+    "chunkName": "pages/studyCenter/myCourse",
+    "meta": {
+      "title": "我的课程",
+      "perv": "/account",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "studyCenter-myFavor",
+    "path": "/studyCenter/myFavor",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\studyCenter\\\\myFavor.vue",
+    "chunkName": "pages/studyCenter/myFavor",
+    "meta": {
+      "title": "我的收藏",
+      "perv": "/account",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "studyCenter-myOrder",
+    "path": "/studyCenter/myOrder",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\studyCenter\\\\myOrder.vue",
+    "chunkName": "pages/studyCenter/myOrder",
+    "meta": {
+      "title": "课程订单",
+      "perv": "/account",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "biunique-paperApply-id",
+    "path": "/biunique/paperApply/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\paperApply\\\\_id.vue",
+    "chunkName": "pages/biunique/paperApply/_id",
+    "meta": {
+      "title": "科研论文一对一",
+      "perv": "/biunique/paper",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "biunique-paperCategoryDetail-id",
+    "path": "/biunique/paperCategoryDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\paperCategoryDetail\\\\_id.vue",
+    "chunkName": "pages/biunique/paperCategoryDetail/_id",
+    "meta": {
+      "title": "科研论文一对一",
+      "perv": "/biunique/paperCategoryList",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "biunique-paperCategoryList-id",
+    "path": "/biunique/paperCategoryList/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\paperCategoryList\\\\_id.vue",
+    "chunkName": "pages/biunique/paperCategoryList/_id",
+    "meta": {
+      "title": "科研论文一对一",
+      "perv": "/biunique/paper",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "biunique-scientificApply-id",
+    "path": "/biunique/scientificApply/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\scientificApply\\\\_id.vue",
+    "chunkName": "pages/biunique/scientificApply/_id",
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/biunique/scientific",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "biunique-scientificCategoryDetail-id",
+    "path": "/biunique/scientificCategoryDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\scientificCategoryDetail\\\\_id.vue",
+    "chunkName": "pages/biunique/scientificCategoryDetail/_id",
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/biunique/scientificCategoryList",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "biunique-scientificCategoryList-id",
+    "path": "/biunique/scientificCategoryList/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\scientificCategoryList\\\\_id.vue",
+    "chunkName": "pages/biunique/scientificCategoryList/_id",
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/biunique/scientific",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "biunique-subjectMatch-id",
+    "path": "/biunique/subjectMatch/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\biunique\\\\subjectMatch\\\\_id.vue",
+    "chunkName": "pages/biunique/subjectMatch/_id",
+    "meta": {
+      "title": "科研背景提升",
+      "perv": "/biunique/scientific",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "pay-finish-id",
+    "path": "/pay/finish/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\pay\\\\finish\\\\_id.vue",
+    "chunkName": "pages/pay/finish/_id",
+    "meta": {
+      "title": "支付成功",
+      "perv": "/courseDetail",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "courseCall-id",
+    "path": "/courseCall/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\courseCall\\\\_id.vue",
+    "chunkName": "pages/courseCall/_id",
+    "meta": {
+      "title": "集call免费学",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "courseDetail-id",
+    "path": "/courseDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\courseDetail\\\\_id.vue",
+    "chunkName": "pages/courseDetail/_id",
+    "meta": {
+      "title": "课程详情",
+      "perv": "/allCourse",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "courseOrder-id",
+    "path": "/courseOrder/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\courseOrder\\\\_id.vue",
+    "chunkName": "pages/courseOrder/_id",
+    "meta": {
+      "title": "课程详情",
+      "perv": "/allCourse",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "coursePoster-id",
+    "path": "/coursePoster/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\coursePoster\\\\_id.vue",
+    "chunkName": "pages/coursePoster/_id",
+    "meta": {
+      "title": "集call免费学",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "inviteFriends-id",
+    "path": "/inviteFriends/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\inviteFriends\\\\_id.vue",
+    "chunkName": "pages/inviteFriends/_id",
+    "meta": {
+      "title": "邀请好友",
+      "perv": "/courseDetail",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "newsDetail-id",
+    "path": "/newsDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\newsDetail\\\\_id.vue",
+    "chunkName": "pages/newsDetail/_id",
+    "meta": {
+      "title": "文章详情",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "promoteApply-id",
+    "path": "/promoteApply/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promoteApply\\\\_id.vue",
+    "chunkName": "pages/promoteApply/_id",
+    "meta": {
+      "title": "科研背景提升申请",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "promoteDetail-id",
+    "path": "/promoteDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promoteDetail\\\\_id.vue",
+    "chunkName": "pages/promoteDetail/_id",
+    "meta": {
+      "title": "科研背景提升详情",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "promoteOrder-id",
+    "path": "/promoteOrder/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promoteOrder\\\\_id.vue",
+    "chunkName": "pages/promoteOrder/_id",
+    "meta": {
+      "title": "科研背景提升订单确认",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "promoteQuestion-id",
+    "path": "/promoteQuestion/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\promoteQuestion\\\\_id.vue",
+    "chunkName": "pages/promoteQuestion/_id",
+    "meta": {
+      "title": "科研背景提升问卷",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "videoDetail-id",
+    "path": "/videoDetail/:id",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\videoDetail\\\\_id.vue",
+    "chunkName": "pages/videoDetail/_id",
+    "meta": {
+      "title": "课程详情",
+      "perv": "/courseDetail",
+      "notab": true,
+      "needLogin": true
+    }
+  },
+  {
+    "name": "videoWeChatDetail-id",
+    "path": "/videoWeChatDetail/:id?",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\videoWeChatDetail\\\\_id.vue",
+    "chunkName": "pages/videoWeChatDetail/_id",
+    "meta": {
+      "title": "课程详情",
+      "perv": "/courseDetail",
+      "notab": true,
+      "needLogin": false
+    }
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\program\\\\mobile_school\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "meta": {
+      "title": "艾思云课堂",
+      "notab": false,
+      "needLogin": false
+    }
+  }
+]
