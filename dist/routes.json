@@ -1,0 +1,348 @@
+[
+  {
+    "name": "allCourse",
+    "path": "/allCourse",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\allCourse\\\\index.vue",
+    "chunkName": "pages/allCourse/index"
+  },
+  {
+    "name": "college",
+    "path": "/college",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\college\\\\index.vue",
+    "chunkName": "pages/college/index"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index"
+  },
+  {
+    "name": "promote",
+    "path": "/promote",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote.vue",
+    "chunkName": "pages/promote",
+    "children": [
+      {
+        "name": "promote-Introduce",
+        "path": "Introduce",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\Introduce.vue",
+        "chunkName": "pages/promote/Introduce"
+      },
+      {
+        "name": "promote-scientificBiunique",
+        "path": "scientificBiunique",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\scientificBiunique.vue",
+        "chunkName": "pages/promote/scientificBiunique"
+      },
+      {
+        "name": "promote-scientificGroup",
+        "path": "scientificGroup",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\scientificGroup.vue",
+        "chunkName": "pages/promote/scientificGroup"
+      }
+    ]
+  },
+  {
+    "name": "StartClass",
+    "path": "/StartClass",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\StartClass.vue",
+    "chunkName": "pages/StartClass"
+  },
+  {
+    "name": "studyCenter",
+    "path": "/studyCenter",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter.vue",
+    "chunkName": "pages/studyCenter",
+    "children": [
+      {
+        "name": "studyCenter-biuniqueOrder",
+        "path": "biuniqueOrder",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\biuniqueOrder.vue",
+        "chunkName": "pages/studyCenter/biuniqueOrder"
+      },
+      {
+        "name": "studyCenter-lastStudy",
+        "path": "lastStudy",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\lastStudy.vue",
+        "chunkName": "pages/studyCenter/lastStudy"
+      },
+      {
+        "name": "studyCenter-myCourse",
+        "path": "myCourse",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myCourse.vue",
+        "chunkName": "pages/studyCenter/myCourse"
+      },
+      {
+        "name": "studyCenter-myFavor",
+        "path": "myFavor",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myFavor.vue",
+        "chunkName": "pages/studyCenter/myFavor"
+      },
+      {
+        "name": "studyCenter-myOrder",
+        "path": "myOrder",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myOrder.vue",
+        "chunkName": "pages/studyCenter/myOrder"
+      },
+      {
+        "name": "studyCenter-punchMrg",
+        "path": "punchMrg",
+        "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\punchMrg.vue",
+        "chunkName": "pages/studyCenter/punchMrg"
+      }
+    ]
+  },
+  {
+    "name": "teacherRecruit",
+    "path": "/teacherRecruit",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\teacherRecruit\\\\index.vue",
+    "chunkName": "pages/teacherRecruit/index"
+  },
+  {
+    "name": "videoDetail",
+    "path": "/videoDetail",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\videoDetail\\\\index.vue",
+    "chunkName": "pages/videoDetail/index"
+  },
+  {
+    "name": "biunique-paper",
+    "path": "/biunique/paper",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paper.vue",
+    "chunkName": "pages/biunique/paper"
+  },
+  {
+    "name": "biunique-scientific",
+    "path": "/biunique/scientific",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientific.vue",
+    "chunkName": "pages/biunique/scientific"
+  },
+  {
+    "name": "college-newsList",
+    "path": "/college/newsList",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\college\\\\newsList.vue",
+    "chunkName": "pages/college/newsList"
+  },
+  {
+    "name": "organizers-courseData",
+    "path": "/organizers/courseData",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\courseData.vue",
+    "chunkName": "pages/organizers/courseData"
+  },
+  {
+    "name": "organizers-courseManagement",
+    "path": "/organizers/courseManagement",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\courseManagement.vue",
+    "chunkName": "pages/organizers/courseManagement"
+  },
+  {
+    "name": "organizers-financialManagement",
+    "path": "/organizers/financialManagement",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\financialManagement.vue",
+    "chunkName": "pages/organizers/financialManagement"
+  },
+  {
+    "name": "organizers-marketManagement",
+    "path": "/organizers/marketManagement",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\marketManagement.vue",
+    "chunkName": "pages/organizers/marketManagement"
+  },
+  {
+    "name": "organizers-myCollege",
+    "path": "/organizers/myCollege",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\myCollege.vue",
+    "chunkName": "pages/organizers/myCollege"
+  },
+  {
+    "name": "organizers-traineesManagement",
+    "path": "/organizers/traineesManagement",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\traineesManagement.vue",
+    "chunkName": "pages/organizers/traineesManagement"
+  },
+  {
+    "name": "paper-cnEnCoach",
+    "path": "/paper/cnEnCoach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\cnEnCoach.vue",
+    "chunkName": "pages/paper/cnEnCoach"
+  },
+  {
+    "name": "paper-coach",
+    "path": "/paper/coach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\coach.vue",
+    "chunkName": "pages/paper/coach"
+  },
+  {
+    "name": "paper-conferenceCoach",
+    "path": "/paper/conferenceCoach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\conferenceCoach.vue",
+    "chunkName": "pages/paper/conferenceCoach"
+  },
+  {
+    "name": "paper-coreCoach",
+    "path": "/paper/coreCoach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\coreCoach.vue",
+    "chunkName": "pages/paper/coreCoach"
+  },
+  {
+    "name": "paper-graduateCoach",
+    "path": "/paper/graduateCoach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\graduateCoach.vue",
+    "chunkName": "pages/paper/graduateCoach"
+  },
+  {
+    "name": "paper-result",
+    "path": "/paper/result",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\result.vue",
+    "chunkName": "pages/paper/result"
+  },
+  {
+    "name": "paper-sciCoach",
+    "path": "/paper/sciCoach",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\sciCoach.vue",
+    "chunkName": "pages/paper/sciCoach"
+  },
+  {
+    "name": "paper-components-Flow",
+    "path": "/paper/components/Flow",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Flow.vue",
+    "chunkName": "pages/paper/components/Flow"
+  },
+  {
+    "name": "paper-components-Header",
+    "path": "/paper/components/Header",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Header.vue",
+    "chunkName": "pages/paper/components/Header"
+  },
+  {
+    "name": "paper-components-Intro",
+    "path": "/paper/components/Intro",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Intro.vue",
+    "chunkName": "pages/paper/components/Intro"
+  },
+  {
+    "name": "paper-components-Scheme",
+    "path": "/paper/components/Scheme",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Scheme.vue",
+    "chunkName": "pages/paper/components/Scheme"
+  },
+  {
+    "name": "paper-components-School",
+    "path": "/paper/components/School",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\School.vue",
+    "chunkName": "pages/paper/components/School"
+  },
+  {
+    "name": "paper-components-Swiper",
+    "path": "/paper/components/Swiper",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Swiper.vue",
+    "chunkName": "pages/paper/components/Swiper"
+  },
+  {
+    "name": "paper-components-Title",
+    "path": "/paper/components/Title",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Title.vue",
+    "chunkName": "pages/paper/components/Title"
+  },
+  {
+    "name": "biunique-paperApply-id",
+    "path": "/biunique/paperApply/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paperApply\\\\_id.vue",
+    "chunkName": "pages/biunique/paperApply/_id"
+  },
+  {
+    "name": "biunique-paperCategoryDetail-id",
+    "path": "/biunique/paperCategoryDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paperCategoryDetail\\\\_id.vue",
+    "chunkName": "pages/biunique/paperCategoryDetail/_id"
+  },
+  {
+    "name": "biunique-scientificApply-id",
+    "path": "/biunique/scientificApply/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientificApply\\\\_id.vue",
+    "chunkName": "pages/biunique/scientificApply/_id"
+  },
+  {
+    "name": "biunique-scientificCategoryDetail-id",
+    "path": "/biunique/scientificCategoryDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientificCategoryDetail\\\\_id.vue",
+    "chunkName": "pages/biunique/scientificCategoryDetail/_id"
+  },
+  {
+    "name": "biunique-subjectMatch-id",
+    "path": "/biunique/subjectMatch/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\subjectMatch\\\\_id.vue",
+    "chunkName": "pages/biunique/subjectMatch/_id"
+  },
+  {
+    "name": "biunique-subjectMatchDetail-id",
+    "path": "/biunique/subjectMatchDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\subjectMatchDetail\\\\_id.vue",
+    "chunkName": "pages/biunique/subjectMatchDetail/_id"
+  },
+  {
+    "name": "organizers-couponManagement-id",
+    "path": "/organizers/couponManagement/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\couponManagement\\\\_id.vue",
+    "chunkName": "pages/organizers/couponManagement/_id"
+  },
+  {
+    "name": "pay-finish-id",
+    "path": "/pay/finish/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\pay\\\\finish\\\\_id.vue",
+    "chunkName": "pages/pay/finish/_id"
+  },
+  {
+    "name": "courseDetail-id",
+    "path": "/courseDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\courseDetail\\\\_id.vue",
+    "chunkName": "pages/courseDetail/_id"
+  },
+  {
+    "name": "live-id",
+    "path": "/live/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\live\\\\_id.vue",
+    "chunkName": "pages/live/_id"
+  },
+  {
+    "name": "news-id",
+    "path": "/news/:id",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\news\\\\_id.vue",
+    "chunkName": "pages/news/_id"
+  },
+  {
+    "name": "newsDetail-id",
+    "path": "/newsDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\newsDetail\\\\_id.vue",
+    "chunkName": "pages/newsDetail/_id"
+  },
+  {
+    "name": "promoteApply-id",
+    "path": "/promoteApply/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteApply\\\\_id.vue",
+    "chunkName": "pages/promoteApply/_id"
+  },
+  {
+    "name": "promoteDetail-id",
+    "path": "/promoteDetail/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteDetail\\\\_id.vue",
+    "chunkName": "pages/promoteDetail/_id"
+  },
+  {
+    "name": "promoteQuestion-id",
+    "path": "/promoteQuestion/:id?",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteQuestion\\\\_id.vue",
+    "chunkName": "pages/promoteQuestion/_id"
+  },
+  {
+    "name": "videoDetail-id",
+    "path": "/videoDetail/:id",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\videoDetail\\\\_id.vue",
+    "chunkName": "pages/videoDetail/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\program\\\\html_school\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
