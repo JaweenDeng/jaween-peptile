@@ -3,22 +3,19 @@
     "name": "allCourse",
     "path": "/allCourse",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\allCourse\\\\index.vue",
-    "chunkName": "pages/allCourse/index",
-    "_name": "_73714823"
+    "chunkName": "pages/allCourse/index"
   },
   {
     "name": "college",
     "path": "/college",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\college\\\\index.vue",
-    "chunkName": "pages/college/index",
-    "_name": "_cf6fd3f0"
+    "chunkName": "pages/college/index"
   },
   {
     "name": "news",
     "path": "/news",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\news\\\\index.vue",
-    "chunkName": "pages/news/index",
-    "_name": "_2d8f2542"
+    "chunkName": "pages/news/index"
   },
   {
     "name": "promote",
@@ -30,32 +27,27 @@
         "name": "promote-Introduce",
         "path": "Introduce",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\Introduce.vue",
-        "chunkName": "pages/promote/Introduce",
-        "_name": "_1527d928"
+        "chunkName": "pages/promote/Introduce"
       },
       {
         "name": "promote-scientificBiunique",
         "path": "scientificBiunique",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\scientificBiunique.vue",
-        "chunkName": "pages/promote/scientificBiunique",
-        "_name": "_39ded6f8"
+        "chunkName": "pages/promote/scientificBiunique"
       },
       {
         "name": "promote-scientificGroup",
         "path": "scientificGroup",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\promote\\\\scientificGroup.vue",
-        "chunkName": "pages/promote/scientificGroup",
-        "_name": "_034e79fa"
+        "chunkName": "pages/promote/scientificGroup"
       }
-    ],
-    "_name": "_00210a3a"
+    ]
   },
   {
     "name": "StartClass",
     "path": "/StartClass",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\StartClass.vue",
-    "chunkName": "pages/StartClass",
-    "_name": "_013e2d83"
+    "chunkName": "pages/StartClass"
   },
   {
     "name": "studyCenter",
@@ -67,339 +59,290 @@
         "name": "studyCenter-biuniqueOrder",
         "path": "biuniqueOrder",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\biuniqueOrder.vue",
-        "chunkName": "pages/studyCenter/biuniqueOrder",
-        "_name": "_d5cf8e76"
+        "chunkName": "pages/studyCenter/biuniqueOrder"
       },
       {
         "name": "studyCenter-lastStudy",
         "path": "lastStudy",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\lastStudy.vue",
-        "chunkName": "pages/studyCenter/lastStudy",
-        "_name": "_3ea7517c"
+        "chunkName": "pages/studyCenter/lastStudy"
       },
       {
         "name": "studyCenter-myCourse",
         "path": "myCourse",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myCourse.vue",
-        "chunkName": "pages/studyCenter/myCourse",
-        "_name": "_6dd4bbc8"
+        "chunkName": "pages/studyCenter/myCourse"
       },
       {
         "name": "studyCenter-myFavor",
         "path": "myFavor",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myFavor.vue",
-        "chunkName": "pages/studyCenter/myFavor",
-        "_name": "_28e34ca1"
+        "chunkName": "pages/studyCenter/myFavor"
       },
       {
         "name": "studyCenter-myOrder",
         "path": "myOrder",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\myOrder.vue",
-        "chunkName": "pages/studyCenter/myOrder",
-        "_name": "_7bfe8db1"
+        "chunkName": "pages/studyCenter/myOrder"
       },
       {
         "name": "studyCenter-punchMrg",
         "path": "punchMrg",
         "component": "E:\\\\program\\\\html_school\\\\pages\\\\studyCenter\\\\punchMrg.vue",
-        "chunkName": "pages/studyCenter/punchMrg",
-        "_name": "_59292bb5"
+        "chunkName": "pages/studyCenter/punchMrg"
       }
-    ],
-    "_name": "_4bbc2bbe"
+    ]
   },
   {
     "name": "teacherRecruit",
     "path": "/teacherRecruit",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\teacherRecruit\\\\index.vue",
-    "chunkName": "pages/teacherRecruit/index",
-    "_name": "_4fb5c9b9"
+    "chunkName": "pages/teacherRecruit/index"
   },
   {
     "name": "videoDetail",
     "path": "/videoDetail",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\videoDetail\\\\index.vue",
-    "chunkName": "pages/videoDetail/index",
-    "_name": "_38e4f55a"
+    "chunkName": "pages/videoDetail/index"
   },
   {
     "name": "biunique-paper",
     "path": "/biunique/paper",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paper.vue",
-    "chunkName": "pages/biunique/paper",
-    "_name": "_8aee3b52"
+    "chunkName": "pages/biunique/paper"
   },
   {
     "name": "biunique-scientific",
     "path": "/biunique/scientific",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientific.vue",
-    "chunkName": "pages/biunique/scientific",
-    "_name": "_ee223c24"
+    "chunkName": "pages/biunique/scientific"
   },
   {
     "name": "college-newsList",
     "path": "/college/newsList",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\college\\\\newsList.vue",
-    "chunkName": "pages/college/newsList",
-    "_name": "_b519606a"
+    "chunkName": "pages/college/newsList"
   },
   {
     "name": "organizers-courseData",
     "path": "/organizers/courseData",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\courseData.vue",
-    "chunkName": "pages/organizers/courseData",
-    "_name": "_77fa2d36"
+    "chunkName": "pages/organizers/courseData"
   },
   {
     "name": "organizers-courseManagement",
     "path": "/organizers/courseManagement",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\courseManagement.vue",
-    "chunkName": "pages/organizers/courseManagement",
-    "_name": "_f1ea0b62"
+    "chunkName": "pages/organizers/courseManagement"
   },
   {
     "name": "organizers-financialManagement",
     "path": "/organizers/financialManagement",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\financialManagement.vue",
-    "chunkName": "pages/organizers/financialManagement",
-    "_name": "_439240aa"
+    "chunkName": "pages/organizers/financialManagement"
   },
   {
     "name": "organizers-marketManagement",
     "path": "/organizers/marketManagement",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\marketManagement.vue",
-    "chunkName": "pages/organizers/marketManagement",
-    "_name": "_80db3ea0"
+    "chunkName": "pages/organizers/marketManagement"
   },
   {
     "name": "organizers-myCollege",
     "path": "/organizers/myCollege",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\myCollege.vue",
-    "chunkName": "pages/organizers/myCollege",
-    "_name": "_2b66558a"
+    "chunkName": "pages/organizers/myCollege"
   },
   {
     "name": "organizers-traineesManagement",
     "path": "/organizers/traineesManagement",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\traineesManagement.vue",
-    "chunkName": "pages/organizers/traineesManagement",
-    "_name": "_481504bf"
+    "chunkName": "pages/organizers/traineesManagement"
   },
   {
     "name": "paper-cnEnCoach",
     "path": "/paper/cnEnCoach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\cnEnCoach.vue",
-    "chunkName": "pages/paper/cnEnCoach",
-    "_name": "_5a11b367"
+    "chunkName": "pages/paper/cnEnCoach"
   },
   {
     "name": "paper-coach",
     "path": "/paper/coach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\coach.vue",
-    "chunkName": "pages/paper/coach",
-    "_name": "_0cb843fb"
+    "chunkName": "pages/paper/coach"
   },
   {
     "name": "paper-conferenceCoach",
     "path": "/paper/conferenceCoach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\conferenceCoach.vue",
-    "chunkName": "pages/paper/conferenceCoach",
-    "_name": "_6cdb9202"
+    "chunkName": "pages/paper/conferenceCoach"
   },
   {
     "name": "paper-coreCoach",
     "path": "/paper/coreCoach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\coreCoach.vue",
-    "chunkName": "pages/paper/coreCoach",
-    "_name": "_113c6ac8"
+    "chunkName": "pages/paper/coreCoach"
   },
   {
     "name": "paper-graduateCoach",
     "path": "/paper/graduateCoach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\graduateCoach.vue",
-    "chunkName": "pages/paper/graduateCoach",
-    "_name": "_304bf1f0"
+    "chunkName": "pages/paper/graduateCoach"
   },
   {
     "name": "paper-result",
     "path": "/paper/result",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\result.vue",
-    "chunkName": "pages/paper/result",
-    "_name": "_2083f38c"
+    "chunkName": "pages/paper/result"
   },
   {
     "name": "paper-sciCoach",
     "path": "/paper/sciCoach",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\sciCoach.vue",
-    "chunkName": "pages/paper/sciCoach",
-    "_name": "_111a1fb0"
+    "chunkName": "pages/paper/sciCoach"
   },
   {
     "name": "paper-components-Flow",
     "path": "/paper/components/Flow",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Flow.vue",
-    "chunkName": "pages/paper/components/Flow",
-    "_name": "_a8c36ada"
+    "chunkName": "pages/paper/components/Flow"
   },
   {
     "name": "paper-components-Header",
     "path": "/paper/components/Header",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Header.vue",
-    "chunkName": "pages/paper/components/Header",
-    "_name": "_4bf5b59c"
+    "chunkName": "pages/paper/components/Header"
   },
   {
     "name": "paper-components-Intro",
     "path": "/paper/components/Intro",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Intro.vue",
-    "chunkName": "pages/paper/components/Intro",
-    "_name": "_5824ded7"
+    "chunkName": "pages/paper/components/Intro"
   },
   {
     "name": "paper-components-Scheme",
     "path": "/paper/components/Scheme",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Scheme.vue",
-    "chunkName": "pages/paper/components/Scheme",
-    "_name": "_49a22c4a"
+    "chunkName": "pages/paper/components/Scheme"
   },
   {
     "name": "paper-components-School",
     "path": "/paper/components/School",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\School.vue",
-    "chunkName": "pages/paper/components/School",
-    "_name": "_5e6cd299"
+    "chunkName": "pages/paper/components/School"
   },
   {
     "name": "paper-components-Swiper",
     "path": "/paper/components/Swiper",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Swiper.vue",
-    "chunkName": "pages/paper/components/Swiper",
-    "_name": "_7fd0fd9d"
+    "chunkName": "pages/paper/components/Swiper"
   },
   {
     "name": "paper-components-Title",
     "path": "/paper/components/Title",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\paper\\\\components\\\\Title.vue",
-    "chunkName": "pages/paper/components/Title",
-    "_name": "_b634767a"
+    "chunkName": "pages/paper/components/Title"
   },
   {
     "name": "biunique-paperApply-id",
     "path": "/biunique/paperApply/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paperApply\\\\_id.vue",
-    "chunkName": "pages/biunique/paperApply/_id",
-    "_name": "_36aacd43"
+    "chunkName": "pages/biunique/paperApply/_id"
   },
   {
     "name": "biunique-paperCategoryDetail-id",
     "path": "/biunique/paperCategoryDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\paperCategoryDetail\\\\_id.vue",
-    "chunkName": "pages/biunique/paperCategoryDetail/_id",
-    "_name": "_15964784"
+    "chunkName": "pages/biunique/paperCategoryDetail/_id"
   },
   {
     "name": "biunique-scientificApply-id",
     "path": "/biunique/scientificApply/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientificApply\\\\_id.vue",
-    "chunkName": "pages/biunique/scientificApply/_id",
-    "_name": "_a87907cc"
+    "chunkName": "pages/biunique/scientificApply/_id"
   },
   {
     "name": "biunique-scientificCategoryDetail-id",
     "path": "/biunique/scientificCategoryDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\scientificCategoryDetail\\\\_id.vue",
-    "chunkName": "pages/biunique/scientificCategoryDetail/_id",
-    "_name": "_1fe14ae6"
+    "chunkName": "pages/biunique/scientificCategoryDetail/_id"
   },
   {
     "name": "biunique-subjectMatch-id",
     "path": "/biunique/subjectMatch/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\subjectMatch\\\\_id.vue",
-    "chunkName": "pages/biunique/subjectMatch/_id",
-    "_name": "_312878a8"
+    "chunkName": "pages/biunique/subjectMatch/_id"
   },
   {
     "name": "biunique-subjectMatchDetail-id",
     "path": "/biunique/subjectMatchDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\biunique\\\\subjectMatchDetail\\\\_id.vue",
-    "chunkName": "pages/biunique/subjectMatchDetail/_id",
-    "_name": "_f3cd3a4a"
+    "chunkName": "pages/biunique/subjectMatchDetail/_id"
   },
   {
     "name": "organizers-couponManagement-id",
     "path": "/organizers/couponManagement/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\organizers\\\\couponManagement\\\\_id.vue",
-    "chunkName": "pages/organizers/couponManagement/_id",
-    "_name": "_223e26e0"
+    "chunkName": "pages/organizers/couponManagement/_id"
   },
   {
     "name": "pay-finish-id",
     "path": "/pay/finish/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\pay\\\\finish\\\\_id.vue",
-    "chunkName": "pages/pay/finish/_id",
-    "_name": "_e9811d68"
+    "chunkName": "pages/pay/finish/_id"
   },
   {
     "name": "courseDetail-id",
     "path": "/courseDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\courseDetail\\\\_id.vue",
-    "chunkName": "pages/courseDetail/_id",
-    "_name": "_533093d1"
+    "chunkName": "pages/courseDetail/_id"
   },
   {
     "name": "live-id",
     "path": "/live/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\live\\\\_id.vue",
-    "chunkName": "pages/live/_id",
-    "_name": "_cabd939e"
+    "chunkName": "pages/live/_id"
   },
   {
     "name": "news-id",
     "path": "/news/:id",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\news\\\\_id.vue",
-    "chunkName": "pages/news/_id",
-    "_name": "_49c9902a"
+    "chunkName": "pages/news/_id"
   },
   {
     "name": "newsDetail-id",
     "path": "/newsDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\newsDetail\\\\_id.vue",
-    "chunkName": "pages/newsDetail/_id",
-    "_name": "_6f3f58d9"
+    "chunkName": "pages/newsDetail/_id"
   },
   {
     "name": "promoteApply-id",
     "path": "/promoteApply/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteApply\\\\_id.vue",
-    "chunkName": "pages/promoteApply/_id",
-    "_name": "_a875b262"
+    "chunkName": "pages/promoteApply/_id"
   },
   {
     "name": "promoteDetail-id",
     "path": "/promoteDetail/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteDetail\\\\_id.vue",
-    "chunkName": "pages/promoteDetail/_id",
-    "_name": "_445ed156"
+    "chunkName": "pages/promoteDetail/_id"
   },
   {
     "name": "promoteQuestion-id",
     "path": "/promoteQuestion/:id?",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\promoteQuestion\\\\_id.vue",
-    "chunkName": "pages/promoteQuestion/_id",
-    "_name": "_31ef0c21"
+    "chunkName": "pages/promoteQuestion/_id"
   },
   {
     "name": "videoDetail-id",
     "path": "/videoDetail/:id",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\videoDetail\\\\_id.vue",
-    "chunkName": "pages/videoDetail/_id",
-    "_name": "_855a7f0a"
+    "chunkName": "pages/videoDetail/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "E:\\\\program\\\\html_school\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_0ae4a1b5"
+    "chunkName": "pages/index"
   }
 ]
