@@ -4,7 +4,8 @@
   "description": "111",
   "main": "a.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon a.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/JaweenDeng/test-git/issues"
   },
-  "homepage": "https://github.com/JaweenDeng/test-git#readme"
+  "homepage": "https://github.com/JaweenDeng/test-git#readme",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "iconv-lite": "^0.6.3",
+    "node-xlsx": "^0.21.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
 }
