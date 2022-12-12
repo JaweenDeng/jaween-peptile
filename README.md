@@ -1,4 +1,5 @@
 # 爬取数据转excel输出
+下载项目，运行`dev`,  
 实例化对象，传入3个参数，    
 config:爬的属性名，已经对应页面上的className,比如：{title:".article-title"}  
 frequency:循环次数  
