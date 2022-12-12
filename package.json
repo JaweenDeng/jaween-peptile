@@ -1,11 +1,11 @@
 {
-  "name": "jaween-demo",
+  "name": "jaween-peptile",
   "version": "1.0.0",
-  "description": "111",
-  "main": "a.js",
+  "description": "Reptile",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon a.js"
+    "dev": "nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,6 @@
     "iconv-lite": "^0.6.3",
     "node-xlsx": "^0.21.0",
     "nodemon": "^2.0.20",
-    "request": "^2.88.2",
-    "xlsx": "^0.18.5"
+    "request": "^2.88.2"
   }
 }
