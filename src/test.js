@@ -1,6 +1,6 @@
 /*
  * @Author: djw
- * @Description: 测试用
+ * @Description: 笑话大全
  */
 const https = require('https');
 const cheerio = require('cheerio');
@@ -12,7 +12,7 @@ const path = require('path')
 let allData = [
     ['title', 'content', 'description', 'type', 'status', 'sort']
 ];
-const number = 5
+const number = 5000
 for(let i =0; i<=number; i++) {
     https.get(`https://xiaohua.zol.com.cn/detail59/${i}.html`, function (res) {
         var bufferHelper = new BufferHelper();
@@ -33,7 +33,7 @@ for(let i =0; i<=number; i++) {
             if (i === number) {
                 //生成表格
                 const buffer = nodexlsx.build([{name:'sheet1',data:allData }]);
-                var filePath = path.join(__dirname, `./public/${(new Date().getTime())}.xlsx`); // 存储路劲和文件名
+                var filePath = path.join(__dirname, `../public/${(new Date().getTime())}.xlsx`); // 存储路劲和文件名
                 fs.writeFileSync(filePath,buffer,{'flag':'w'});//
             }
         })
